@@ -1,3 +1,7 @@
+#Costume
+locals
+env_config*
+
 # Logs
 logs
 *.log
