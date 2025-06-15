@@ -1,6 +1,9 @@
 #Costume
 locals
 env_config*
+.env_config
+.env
+node_modules
 
 # Logs
 logs
